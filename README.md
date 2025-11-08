@@ -46,7 +46,7 @@ matplotlib
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/Flight6DOF-Simulator.git
+   git clone https://github.com/engrkhert/Flight6DOF-Simulator.git
    cd Flight6DOF-Simulator
    ```
 
